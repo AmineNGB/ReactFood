@@ -1,5 +1,5 @@
 {
-  "name": "recettes-app",
+  "name": "ReactFood",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,11 +11,14 @@
     "react-router-dom": "^4.3.1",
     "react-scripts": "2.0.5"
   },
+  "homepage": "https://aminengb.github.io/ReactFood",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
