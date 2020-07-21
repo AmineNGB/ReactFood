@@ -7,19 +7,19 @@ import NotFound from './components/NotFound'
 import * as serviceWorker from './serviceWorker'
 
 import {
-  BrowserRouter as Router,
+  HashRouter,
   Route,
   Switch
 } from 'react-router-dom'
 
 const Root = () => (
-  <Router>
+  <HashRouter>
     <Switch>
       <Route exact path='/' component={Connexion} />
       <Route path='/pseudo/:pseudo' component={App} />
       <Route component={NotFound} />
     </Switch>
-  </Router>
+  </HashRouter>
 )
 
 ReactDOM.render(<Root />, document.getElementById('root'))
