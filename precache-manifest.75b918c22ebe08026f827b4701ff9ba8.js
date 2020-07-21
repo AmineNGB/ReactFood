@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/ReactFood/static/media/epinard.815852b9.jpg"
   },
   {
-    "revision": "074e942fbac102453b0c",
-    "url": "/ReactFood/static/css/main.8c581080.chunk.css"
+    "revision": "1d16af9ba9f78aba6c6c",
+    "url": "/ReactFood/static/css/main.a16de6c4.chunk.css"
   },
   {
-    "revision": "ae120ab271ca4ef7945d",
-    "url": "/ReactFood/static/js/1.ae120ab2.chunk.js"
+    "revision": "f0479eb466f15067ff0c",
+    "url": "/ReactFood/static/js/1.f0479eb4.chunk.js"
   },
   {
     "revision": "299776f69d5e71e531fd",
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/ReactFood/static/media/chocolat.4200b6b9.jpeg"
   },
   {
-    "revision": "074e942fbac102453b0c",
-    "url": "/ReactFood/static/js/main.074e942f.chunk.js"
+    "revision": "1d16af9ba9f78aba6c6c",
+    "url": "/ReactFood/static/js/main.1d16af9b.chunk.js"
   },
   {
     "revision": "fca17319421519cbb9d73c85b4879566",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/ReactFood/static/media/tartine.96c2f754.jpg"
   },
   {
-    "revision": "59a9832e19f7c0e6f0f0a132fe17d3e8",
+    "revision": "fec74bc3ba0f6c0a42230f8c058e4611",
     "url": "/ReactFood/index.html"
   }
 ];
