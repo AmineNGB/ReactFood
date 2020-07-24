@@ -1,7 +1,7 @@
 {
   "main.css": "/ReactFood/static/css/main.a16de6c4.chunk.css",
-  "main.js": "/ReactFood/static/js/main.1d16af9b.chunk.js",
-  "main.js.map": "/ReactFood/static/js/main.1d16af9b.chunk.js.map",
+  "main.js": "/ReactFood/static/js/main.098671cf.chunk.js",
+  "main.js.map": "/ReactFood/static/js/main.098671cf.chunk.js.map",
   "static/js/1.f0479eb4.chunk.js": "/ReactFood/static/js/1.f0479eb4.chunk.js",
   "static/js/1.f0479eb4.chunk.js.map": "/ReactFood/static/js/1.f0479eb4.chunk.js.map",
   "runtime~main.js": "/ReactFood/static/js/runtime~main.299776f6.js",
@@ -15,6 +15,6 @@
   "static/media/chocolat.jpeg": "/ReactFood/static/media/chocolat.4200b6b9.jpeg",
   "static/css/main.a16de6c4.chunk.css.map": "/ReactFood/static/css/main.a16de6c4.chunk.css.map",
   "index.html": "/ReactFood/index.html",
-  "precache-manifest.75b918c22ebe08026f827b4701ff9ba8.js": "/ReactFood/precache-manifest.75b918c22ebe08026f827b4701ff9ba8.js",
+  "precache-manifest.3755df5474d1d00c6b2a6e282c1faf78.js": "/ReactFood/precache-manifest.3755df5474d1d00c6b2a6e282c1faf78.js",
   "service-worker.js": "/ReactFood/service-worker.js"
 }
